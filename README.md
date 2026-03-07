@@ -1,6 +1,7 @@
 
 # Ứng dụng AlexNet trong phân loại tế bào máu từ ảnh hiển vi
-<img width="189" height="184" alt="image" src="https://github.com/user-attachments/assets/17b5d1e0-d814-46c8-bb93-4b5e5caba528" />
+<img width="1124" height="472" alt="image" src="https://github.com/user-attachments/assets/137c1043-4d51-4a03-884d-39058696b485" />
+
 
 ## Tác giả:
 Họ và Tên: Đinh Thị Thu Hiệp
